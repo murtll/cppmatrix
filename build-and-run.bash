@@ -1,2 +1,2 @@
 #!/bin/bash
-g++ jordanGauss.cpp -o jordan-gauss && ./jordan-gauss
+g++ gauss.cpp -o gauss && ./gauss
